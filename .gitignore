@@ -193,3 +193,8 @@ cython_debug/
 .cursorignore
 .cursorindexingignore
 playwright/.auth
+
+# Ignore JetBrains IDE project files
+.idea/
+videos/
+report.html
